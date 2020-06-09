@@ -1,0 +1,26 @@
+{
+  "id": "5535571",
+  "location": {
+    "country": "Israel",
+    "city": "Haifa",
+    "street": "Ben Gurion",
+    "building": "1",
+    "state": ""
+  },
+  "model": {
+    "name": "A5",
+    "brand": "Audi",
+    "bodyType": "Sedan"
+  },
+  "transmission": "Automatic",
+  "fuel": "Gasoline",
+  "wd": "All-wheel drive",
+  "year": 2016,
+  "engine": 1.4,
+  "horsepower": 140,
+  "doors": 4,
+  "seats": 5,
+  "fuelConsumption": 6.9,
+  "features": "Sunroof, Navi, 19 inch rims",
+  "price": 129.9
+}
